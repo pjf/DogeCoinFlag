@@ -1,0 +1,11 @@
+{
+    "spec_version"   : 1,
+    "identifier"     : "DogeCoinFlag",
+    "$ref"           : "#/ckan/kerbalstuff",
+    "install" : [
+        {
+            "file"       : "GameData/DogeCoinFlag",
+            "install_to" : "GameData"
+        }
+    ]
+}
